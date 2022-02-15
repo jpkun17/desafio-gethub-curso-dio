@@ -1,0 +1,28 @@
+Git e Github
+Linhas de comandos
+tecla tab no windows = auto complete
+Windows / Linux
+dir   / ls -> Listar diretórios
+cd    / cd -> Abrir diretório
+cls   / clear (ou ctrl + l) -> Limpar terminal
+mkdir / mkdir -> criar pasta
+echo / -> Printa o que vc escreveu no terminal
+(pasta>echo hello > hello.txt) = cria um txt escrito hello
+del  / -> Deleta arquivos.
+rmdir  / Deleta pastas.
+
+Linux
+rm -rf = deleta tudo (flag r = recursive, deleta outras pastas dentro da pasta, f = force (não pergunta nem gera alertas.)
+
+Objetos git
+SHA1 = Algoritmo de encriptação hash do GIT
+BLob: guarda meta dados de um arquivo (tamanho, qtd de caracteres)
+Arvore: Guarda blobs e outras árvores.
+
+Chaves SSH e Tokens
+
+Gitbash:
+git init -> transforma a pasta atual em um repositório git
+git clone "url do repositorio" -> clona um repositorio do Github
+git push "pasta" "branch do repositório" -> passa minhas alterações para o repositório
+git pull "pasta" "branch do repositório" -> pega as alterações 

@@ -1,0 +1,4 @@
+Lógica de programação.
+exemplo de porcentagem na tabela
+Lógica de programação no code.org
+flowgorithm (app para fluxogramas de código.) "atividade -> somar média e somar total da nota.
